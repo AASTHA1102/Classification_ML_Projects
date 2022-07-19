@@ -1,1 +1,1 @@
-# Titanic_ML_from_Disaster
+# Classification_ML_for_Disaster
